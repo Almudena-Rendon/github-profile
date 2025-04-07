@@ -1,13 +1,8 @@
 # Cómo optimizar tu perfil de GitHub 🐙
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d9cacd49-d6f5-4027-bbb8-066298321d7e" width="250" alt="Optimización GitHub"/>
-</div>
-
-<div align="center">
   <img src="https://github.com/user-attachments/assets/3183febd-b156-4ebe-9468-554a2daa8e5c" />
 </div>
-
 
 ---
 
