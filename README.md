@@ -63,9 +63,8 @@ Puedes elegir entre diferentes categorías, como tecnologías que usas, habilida
 
 - **Personaliza tus badges** con logotipos y colores que representen tus tecnologías y habilidades.
 - Ejemplos:
-- ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
-- ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
-
+  - ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white)
+  - ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white)
 ---
 
 ## Estadísticas Visuales
