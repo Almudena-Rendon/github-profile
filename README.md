@@ -77,6 +77,15 @@ Puedes elegir entre diferentes categorías, como tecnologías que usas, habilida
 
 ![image](https://github.com/user-attachments/assets/2ea011f6-5c0d-46dc-9fc6-ed8e4a91ec21)
 
+### Recurso: [Profile Summary for GitHub](https://profile-summary-for-github.com/user/Almudena-Rendon)
+
+**Profile Summary for GitHub** genera un resumen visual detallado de tu perfil de GitHub, proporcionando información clave sobre tu actividad en la plataforma. Muestra estadísticas de tus repositorios, contribuciones, lenguajes más utilizados y gráficos visuales para resaltar tu actividad y habilidades.
+
+- **Genera un resumen visual** que te permite mostrar de forma atractiva tus estadísticas y habilidades en GitHub.
+
+![Profile Summary](https://github.com/user-attachments/assets/d9cacd49-d6f5-4027-bbb8-066298321d7e)
+
+
 ---
 
 ## README Personalizado
