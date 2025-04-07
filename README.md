@@ -4,6 +4,8 @@
   <img src="https://github.com/user-attachments/assets/d9cacd49-d6f5-4027-bbb8-066298321d7e" width="250" alt="Optimización GitHub"/>
 </div>
 
+![image](https://github.com/user-attachments/assets/733c4a17-c7ff-4614-accc-bd867c6d0eed)
+
 ---
 
 Bienvenido a esta lista de herramientas útiles para **mejorar y personalizar tu perfil de GitHub**. Estas herramientas te ayudarán a destacar y a mostrar tu trabajo de forma más atractiva.
