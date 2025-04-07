@@ -57,6 +57,10 @@ GPRM es un generador interactivo para crear un **README** atractivo para tu perf
 
 - **Agrega una tarjeta de estadísticas** a tu perfil para mostrar tu actividad en GitHub de forma visual.
 
+---
+
 ## Licencia
 
-Recurso: https://choosealicense.com/
+### Recurso:  https://choosealicense.com/
+
+
