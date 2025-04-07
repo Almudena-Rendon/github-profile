@@ -1,4 +1,3 @@
 #  Herramientas para optimizar tu perfil de Github
 
-
-![image](https://github.com/user-attachments/assets/fda19be0-33d9-4ffb-80cc-9efd768837c6)
+![image](https://github.com/user-attachments/assets/d9cacd49-d6f5-4027-bbb8-066298321d7e)
