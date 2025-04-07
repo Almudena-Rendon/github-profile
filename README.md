@@ -54,6 +54,17 @@ Esta herramienta genera un **header image** o imagen de cabecera para tu perfil 
   - ![Coverage](https://img.shields.io/coveralls/github/usuario/repositorio)
   - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
   - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+ 
+
+### Recurso: [GitHub Profile Badges](https://home.aveek.io/GitHub-Profile-Badges/)
+
+**GitHub Profile Badges** te permite generar **badges personalizados** para tu perfil de GitHub de manera rápida y sencilla. 
+Puedes elegir entre diferentes categorías, como tecnologías que usas, habilidades y mucho más.
+
+- **Personaliza tus badges** con logotipos y colores que representen tus tecnologías y habilidades.
+- Ejemplos:
+  - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
