@@ -61,6 +61,12 @@ GPRM es un generador interactivo para crear un **README** atractivo para tu perf
 
 ## Licencia
 
-### Recurso:  https://choosealicense.com/
+### Recurso: [ChooseALicense.com](https://choosealicense.com/)
+
+**ChooseALicense.com** es una plataforma que te ayuda a elegir la licencia más adecuada para tu proyecto de código abierto. El sitio ofrece una **explicación clara y sencilla** de las licencias más comunes y sus implicaciones legales.
+
+- **¿Por qué usar una licencia?**
+  Incluir una licencia en tu repositorio garantiza que otros sepan cómo pueden usar tu código, ya sea para contribuir, modificar o redistribuirlo. Sin una licencia explícita, tu código está bajo derechos de autor, y otros no tienen permisos para usarlo legalmente.
+
 
 
