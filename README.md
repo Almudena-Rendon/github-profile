@@ -19,6 +19,7 @@ Bienvenido a esta lista de herramientas útiles para **mejorar y personalizar tu
 ## Generador de Perfil
 
 ### Recurso: [GPRM (GitHub Profile README Generator)](https://gprm.itsvg.in/)
+![GPRM Icon](https://img.icons8.com/ios/50/000000/github.png)
 
 GPRM es un generador interactivo para crear un **README** atractivo para tu perfil de GitHub. Ofrece diferentes secciones personalizadas como tu biografía, redes sociales, estadísticas de tu cuenta y más. 
 
