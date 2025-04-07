@@ -4,8 +4,9 @@
   <img src="https://github.com/user-attachments/assets/d9cacd49-d6f5-4027-bbb8-066298321d7e" width="250" alt="Optimización GitHub"/>
 </div>
 
-![image](https://github.com/user-attachments/assets/8252a93e-3909-4d1d-bab7-f221a179db4c)
-
+<div align="center">
+![freepik__background__7885](https://github.com/user-attachments/assets/3183febd-b156-4ebe-9468-554a2daa8e5c)
+</div>
 
 ---
 
