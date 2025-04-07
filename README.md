@@ -1,4 +1,4 @@
-<h1 align="center">Herramientas para Optimizar tu Perfil de GitHub</h1>
+# Herramientas para Optimizar tu Perfil de GitHub
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d9cacd49-d6f5-4027-bbb8-066298321d7e" width="250" alt="Optimización GitHub"/>
@@ -9,13 +9,12 @@
 Bienvenido a esta lista de herramientas útiles para **mejorar y personalizar tu perfil de GitHub**. Estas herramientas te ayudarán a destacar y a mostrar tu trabajo de forma más atractiva.
 
 1. [Generador de Perfil](#generador-de-perfil)
-3. [Mockups Visuales](#mockups)
-4. [Badges Personalizados](#badges)
-5. [Estadísticas Visuales](#gráficos)
-6. Generar de README
+2. [Generador de Header](#generador-de-header)
+3. [Badges Personalizados](#badges)
+4. [Estadísticas Visuales](#estadísticas-visuales)
+5. [README Personalizado](#readme)
+6. [Mockups Visuales](#mockups)
 7. [Licencia](#licencia)
-
-   [![wrewr, I'm the webapp.io mascot :)](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=I%27m%20the%20webapp.io%20mascot%20%3A%29&title=wrewr)](https://pimp-my-readme-next.vercel.app)
 
 ---
 
@@ -23,23 +22,17 @@ Bienvenido a esta lista de herramientas útiles para **mejorar y personalizar tu
 
 ### Recurso: [GPRM (GitHub Profile README Generator)](https://gprm.itsvg.in/)
 
-GPRM es un generador interactivo para crear un **README** atractivo para tu perfil de GitHub. Ofrece diferentes secciones personalizadas como tu biografía, redes sociales, estadísticas de tu cuenta y más. 
+GPRM es un generador interactivo para crear un **README** atractivo para tu perfil de GitHub. Ofrece diferentes secciones personalizadas como tu biografía, redes sociales, estadísticas de tu cuenta y más.
 
 - **Personaliza tu perfil** con estadísticas, enlaces a redes sociales y una biografía visualmente atractiva.
 
-## Recurso: https://rahuldkjain.github.io/gh-profile-readme-generator/
-
-Esta herramienta genera un header image o imagen de cabecera para tu perfil de GitHub. Puedes personalizar el texto, los colores y las fuentes para que se ajuste a tu estilo.
-
 ---
 
-## Mockups Visuales
+## Generador de Header
 
-### Recurso: [Shots.so](https://shots.so/)
+### Recurso: [GitHub Profile Header Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
-**Shots.so** es una herramienta en línea que te permite generar **mockups interactivos** de alta calidad para tus proyectos de diseño y desarrollo. Puedes usarla para crear visualizaciones realistas de tu app o proyecto en diferentes dispositivos.
-
-- **Crea mockups interactivos** que impresionarán a tus colaboradores o posibles empleadores.
+Esta herramienta genera un **header image** o imagen de cabecera para tu perfil de GitHub. Puedes personalizar el texto, los colores y las fuentes para que se ajuste a tu estilo.
 
 ---
 
@@ -66,11 +59,27 @@ Esta herramienta genera un header image o imagen de cabecera para tu perfil de G
 
 ---
 
-## README
+## README Personalizado
 
-Recurso: https://readme.so/es
+### Recurso: [Readme.so](https://readme.so/es)
 
-Readme.so es una herramienta en línea que te permite crear un README.md de manera automática y sencilla mediante una interfaz de arrastrar y soltar. Puedes agregar secciones como "Acerca de", "Tecnologías", "Estado del proyecto", "Licencia", entre otras.
+**Readme.so** es una herramienta en línea que te permite crear un README.md de manera automática y sencilla mediante una interfaz de arrastrar y soltar. Puedes agregar secciones como "Acerca de", "Tecnologías", "Estado del proyecto", "Licencia", entre otras.
+
+### Recurso: [PimpMyReadme](https://pimp-my-readme-next.vercel.app/)
+
+**PimpMyReadme** te ayuda a crear un README.md completo y personalizado, agregando badges, estadísticas visuales, trofeos y otros elementos gráficos que puedes usar en tu perfil de GitHub.
+
+---
+
+## Mockups Visuales
+
+### Recurso: [Shots.so](https://shots.so/)
+
+**Shots.so** es una herramienta en línea que te permite generar **mockups interactivos** de alta calidad para tus proyectos de diseño y desarrollo. Puedes usarla para crear visualizaciones realistas de tu app o proyecto en diferentes dispositivos.
+
+- **Crea mockups interactivos** que impresionarán a tus colaboradores o posibles empleadores.
+
+---
 
 ## Licencia
 
@@ -80,6 +89,4 @@ Readme.so es una herramienta en línea que te permite crear un README.md de mane
 
 - **¿Por qué usar una licencia?**
   Incluir una licencia en tu repositorio garantiza que otros sepan cómo pueden usar tu código, ya sea para contribuir, modificar o redistribuirlo. Sin una licencia explícita, tu código está bajo derechos de autor, y otros no tienen permisos para usarlo legalmente.
-
-
 
