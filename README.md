@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="![freepik__background__7885](https://github.com/user-attachments/assets/3183febd-b156-4ebe-9468-554a2daa8e5c)" />
+  <img src="https://github.com/user-attachments/assets/3183febd-b156-4ebe-9468-554a2daa8e5c" />
 </div>
 
 
