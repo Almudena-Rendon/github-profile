@@ -96,3 +96,6 @@ Esta herramienta genera un **header image** o imagen de cabecera para tu perfil 
 - **¿Por qué usar una licencia?**
   Incluir una licencia en tu repositorio garantiza que otros sepan cómo pueden usar tu código, ya sea para contribuir, modificar o redistribuirlo. Sin una licencia explícita, tu código está bajo derechos de autor, y otros no tienen permisos para usarlo legalmente.
 
+  ![image](https://github.com/user-attachments/assets/a84c3ca6-c6f1-4447-be24-c2f9a8d25c9f)
+
+
