@@ -65,6 +65,8 @@ Esta herramienta genera un **header image** o imagen de cabecera para tu perfil 
 
 **Readme.so** es una herramienta en línea que te permite crear un README.md de manera automática y sencilla mediante una interfaz de arrastrar y soltar. Puedes agregar secciones como "Acerca de", "Tecnologías", "Estado del proyecto", "Licencia", entre otras.
 
+![image](https://github.com/user-attachments/assets/edeb72bf-7300-4c48-88fe-473d1d029e5c)
+
 ### Recurso: [PimpMyReadme](https://pimp-my-readme-next.vercel.app/)
 
 **PimpMyReadme** te ayuda a crear un README.md completo y personalizado, agregando badges, estadísticas visuales, trofeos y otros elementos gráficos que puedes usar en tu perfil de GitHub.
