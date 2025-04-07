@@ -83,7 +83,7 @@ Esta herramienta genera un **header image** o imagen de cabecera para tu perfil 
 
 - **Crea mockups interactivos** que impresionarán a tus colaboradores o posibles empleadores.
 
-  ![72shots_so](https://github.com/user-attachments/assets/5bb9a230-8376-4968-931c-446f4c795663)
+![freepik__background__30320](https://github.com/user-attachments/assets/f6207856-e5b7-4f13-bf1b-88b455023bec)
 
 ---
 
