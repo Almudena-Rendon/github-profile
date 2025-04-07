@@ -9,10 +9,13 @@
 Bienvenido a esta lista de herramientas útiles para **mejorar y personalizar tu perfil de GitHub**. Estas herramientas te ayudarán a destacar y a mostrar tu trabajo de forma más atractiva.
 
 1. [Generador de Perfil](#generador-de-perfil)
-2. [Mockups Visuales](#mockups)
-3. [Badges Personalizados](#badges)
-4. [Estadísticas Visuales](#gráficos)
-5. [Licencia](#licencia)
+3. [Mockups Visuales](#mockups)
+4. [Badges Personalizados](#badges)
+5. [Estadísticas Visuales](#gráficos)
+6. Generar de README
+7. [Licencia](#licencia)
+
+   [![wrewr, I'm the webapp.io mascot :)](https://pimp-my-readme-next.vercel.app/api/wavy-banner?subtitle=I%27m%20the%20webapp.io%20mascot%20%3A%29&title=wrewr)](https://pimp-my-readme-next.vercel.app)
 
 ---
 
@@ -23,6 +26,10 @@ Bienvenido a esta lista de herramientas útiles para **mejorar y personalizar tu
 GPRM es un generador interactivo para crear un **README** atractivo para tu perfil de GitHub. Ofrece diferentes secciones personalizadas como tu biografía, redes sociales, estadísticas de tu cuenta y más. 
 
 - **Personaliza tu perfil** con estadísticas, enlaces a redes sociales y una biografía visualmente atractiva.
+
+## Recurso: https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+Esta herramienta genera un header image o imagen de cabecera para tu perfil de GitHub. Puedes personalizar el texto, los colores y las fuentes para que se ajuste a tu estilo.
 
 ---
 
@@ -58,6 +65,12 @@ GPRM es un generador interactivo para crear un **README** atractivo para tu perf
 - **Agrega una tarjeta de estadísticas** a tu perfil para mostrar tu actividad en GitHub de forma visual.
 
 ---
+
+## README
+
+Recurso: https://readme.so/es
+
+Readme.so es una herramienta en línea que te permite crear un README.md de manera automática y sencilla mediante una interfaz de arrastrar y soltar. Puedes agregar secciones como "Acerca de", "Tecnologías", "Estado del proyecto", "Licencia", entre otras.
 
 ## Licencia
 
