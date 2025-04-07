@@ -52,6 +52,8 @@ Esta herramienta genera un **header image** o imagen de cabecera para tu perfil 
 - Ejemplos:
   - ![Build Status](https://img.shields.io/travis/com/usuario/repositorio)
   - ![Coverage](https://img.shields.io/coveralls/github/usuario/repositorio)
+  - ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  - ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
