@@ -28,7 +28,7 @@ GPRM es un generador interactivo para crear un **README** atractivo para tu perf
 
 - **Personaliza tu perfil** con estadísticas, enlaces a redes sociales y una biografía visualmente atractiva.
 
-![image](https://github.com/user-attachments/assets/40e14276-d2d5-4b31-b4e4-2f0fdab2560f)
+![image](https://github.com/user-attachments/assets/55849cc8-04e3-4fa6-a39b-2b1d0915b951)
 
 ---
 
