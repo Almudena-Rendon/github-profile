@@ -38,6 +38,8 @@ GPRM es un generador interactivo para crear un **README** atractivo para tu perf
 
 Esta herramienta genera un **header image** o imagen de cabecera para tu perfil de GitHub. Puedes personalizar el texto, los colores y las fuentes para que se ajuste a tu estilo.
 
+![image](https://github.com/user-attachments/assets/51447cbb-a567-4696-9cd5-62b325bd943a)
+
 ---
 
 ## Badges Personalizados
@@ -60,6 +62,8 @@ Esta herramienta genera un **header image** o imagen de cabecera para tu perfil 
 **GitHub Readme Stats** genera estadísticas visuales personalizadas de tu perfil o repositorio. Muestra información como la cantidad de commits, los lenguajes más utilizados, el número de estrellas, etc.
 
 - **Agrega una tarjeta de estadísticas** a tu perfil para mostrar tu actividad en GitHub de forma visual.
+
+![image](https://github.com/user-attachments/assets/2ea011f6-5c0d-46dc-9fc6-ed8e4a91ec21)
 
 ---
 
