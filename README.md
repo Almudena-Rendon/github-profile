@@ -69,6 +69,8 @@ Esta herramienta genera un **header image** o imagen de cabecera para tu perfil 
 
 **PimpMyReadme** te ayuda a crear un README.md completo y personalizado, agregando badges, estadísticas visuales, trofeos y otros elementos gráficos que puedes usar en tu perfil de GitHub.
 
+[![Hey, I'm Jellybear!](https://pimp-my-readme-next.vercel.app/api/sliding-text?emojis=&text=Hey%2C%20I%27m%20Jellybear%21)](https://pimp-my-readme-next.vercel.app)
+
 ---
 
 ## Mockups Visuales
