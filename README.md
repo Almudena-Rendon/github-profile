@@ -12,10 +12,10 @@ Bienvenido a esta lista de herramientas útiles para **mejorar y personalizar tu
 
 1. [Generador de Perfil](#generador-de-perfil)
 2. [Generador de Header](#generador-de-header)
-3. [Badges Personalizados](#badges)
+3. [Badges Personalizados](#badges-personalizados)
 4. [Estadísticas Visuales](#estadísticas-visuales)
-5. [README Personalizado](#readme)
-6. [Mockups Visuales](#mockups)
+5. [README Personalizado](#readme-personalizado)
+6. [Mockups Visuales](#mockups-visuales)
 7. [Licencia](#licencia)
 
 ---
