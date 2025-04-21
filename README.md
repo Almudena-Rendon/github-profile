@@ -127,4 +127,3 @@ Puedes elegir entre diferentes categorías, como tecnologías que usas, habilida
 
   ![image](https://github.com/user-attachments/assets/a84c3ca6-c6f1-4447-be24-c2f9a8d25c9f)
 
-
